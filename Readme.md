@@ -41,18 +41,4 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
 
 ## Rodando os projectos
 
-Para rodar os testes, rode o seguinte comando
-
-```bash
-  npm run test
-```
-
-## Uso/Exemplos
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
+. . .
