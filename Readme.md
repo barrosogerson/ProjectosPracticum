@@ -12,7 +12,7 @@ Projectos criados durante o curso de analise de dados no bootcamp Practicum/Trip
 
 ### 🚀 Sobre mim
 
-Eu sou uma pessoa desenvolvedora full-stack...
+. . . 
 
 ### 🔗 Links
 
@@ -22,11 +22,11 @@ Eu sou uma pessoa desenvolvedora full-stack...
 
 ## 🎓 Aprendizados
 
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
+. . .
 
 ## ✍️ Melhorias
 
-Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc
+. . . 
 
 ## Screenshots
 
