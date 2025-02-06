@@ -8,7 +8,7 @@ Projectos criados durante o curso de analise de dados no bootcamp Practicum/Trip
 
 ## 👨‍💻 Autor
 
-- [@ Gerson Barroso](https://www.github.com/octokatherine)
+- [@ Gerson Barroso](https://github.com/barrosogerson/ProjectosPracticum)
 
 ### 🚀 Sobre mim
 
