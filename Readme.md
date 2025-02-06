@@ -57,11 +57,10 @@ Algumas das principais melhorias incluem:
 ![Projecto 9](screenshots/proj9_1.png)
 
 ## Executar os projectos
-
-### Instalar o python 3.9.6
+ 
+### 1️⃣ Instalar o python 3.9.6 e Bibliotecas Necessárias
 - Antes de iniciar, certifique-se de que possui o Python instalado. Caso ainda não tenha, baixe e instale a versão mais recente em [python.org](https://www.python.org/downloads/release/python-396/).
 
-### Instalar as libs do python
 - Em seguida, instale o Jupyter Notebook e as bibliotecas utilizadas nos projetos executando os seguintes comandos no terminal ou prompt de comando:
 
 ```bash
@@ -72,3 +71,17 @@ pip install seaborn==0.12.2
 pip install plotly==5.15.0
 ```
 
+2️⃣ Executar o Jupyter Notebook
+
+```jupyter notebook```
+
+
+3️⃣ Abrir e Executar os Notebooks
+
+- Navegue até a pasta onde os notebooks do projeto estão salvos.
+- Clique no arquivo desejado (.ipynb) para abri-lo.
+- Para executar as células de código, pressione Shift + Enter ou clique no botão ▶️ "Run".
+
+4️⃣ Fechar o Jupyter Notebook
+
+- Após finalizar a análise, para encerrar o Jupyter Notebook, pressione `Ctrl + C` no terminal e confirme a interrupção pressionando `Y`.
