@@ -59,7 +59,10 @@ Algumas das principais melhorias incluem:
 ## Executar os projectos
 
 ### Instalar o python 3.9.6
+- Antes de iniciar, certifique-se de que possui o Python instalado. Caso ainda não tenha, baixe e instale a versão mais recente em [python.org](https://www.python.org/downloads/release/python-396/).
+
 ### Instalar as libs do python
+- Em seguida, instale o Jupyter Notebook e as bibliotecas utilizadas nos projetos executando os seguintes comandos no terminal ou prompt de comando:
 
 ```bash
 pip install jupyter==1.1.1
