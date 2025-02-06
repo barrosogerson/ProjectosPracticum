@@ -56,7 +56,7 @@ Algumas das principais melhorias incluem:
 ![Projecto 9](screenshots/proj9.png)
 ![Projecto 9](screenshots/proj9_1.png)
 
-## Executar os projectos
+## 💻 Executar os projectos
  
 ### 1️⃣ Instalar o python 3.9.6 e Bibliotecas Necessárias
 - Antes de iniciar, certifique-se de que possui o Python instalado. Caso ainda não tenha, baixe e instale a versão mais recente em [python.org](https://www.python.org/downloads/release/python-396/).
